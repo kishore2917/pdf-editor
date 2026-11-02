@@ -31,8 +31,7 @@ Download your edited document before closing or refreshing the tab. Changes are 
 You need Node.js and npm installed.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/kishore2917/pdf-editor.git
 npm install
 npm run dev
 ```
